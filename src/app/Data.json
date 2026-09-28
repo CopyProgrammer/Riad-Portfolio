@@ -1,0 +1,225 @@
+{
+  "siteConfig": {
+    "showTestimonials": false,
+    "showBlog": false,
+    "showCvDownload": false,
+    "cvPdf": null
+  },
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Md Mujaheed <br />Shahariar Riad",
+      "subTitle": "Hello, I'm",
+      "designation": "Incoming Data Analyst at MEAMO",
+      "tagline": "BSc (Hons) Computer Science student at London South Bank University",
+      "primaryAction": {
+        "label": "View Projects",
+        "target": "portfolio"
+      },
+      "secondaryAction": {
+        "label": "Contact Me",
+        "target": "contact"
+      }
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/profile/riad.jpg",
+    "cvPdf": null,
+    "title": "Hi There! I'm Md Riad",
+    "subtitle": "Incoming Data Analyst \u00b7 CS Student",
+    "text": "I'm Md Mujaheed Shahariar Riad, a BSc (Hons) Computer Science student at London South Bank University, joining MEAMO on 1 October 2026 for a Data Analyst industrial placement. My projects span Python systems, web development and visual communication. Alongside my studies, I have contributed to LSBU ZeroDay and represented the School of Computer Science and Informatics as a student ambassador.",
+    "details": [
+      {
+        "title": "Email",
+        "info": "md.riad.cs@gmail.com"
+      },
+      {
+        "title": "Education",
+        "info": "BSc (Hons) Computer Science, LSBU"
+      },
+      {
+        "title": "Placement",
+        "info": "Data Analyst at MEAMO (Starting Oct 2026)"
+      },
+      {
+        "title": "LinkedIn",
+        "info": "linkedin.com/in/enthusiastsrd",
+        "link": "https://www.linkedin.com/in/enthusiastsrd/"
+      },
+      {
+        "title": "GitHub",
+        "info": "github.com/CopyProgrammer",
+        "link": "https://github.com/CopyProgrammer"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "My skills across programming, web development and communication.",
+    "text": "These skills are supported by my university coursework, personal projects, and contributions to student societies. Grouped by area of practice.",
+    "skillGroups": [
+      {
+        "groupTitle": "Programming & Systems",
+        "skills": [
+          "Python",
+          "Raspberry Pi",
+          "System Design",
+          "Git & GitHub"
+        ]
+      },
+      {
+        "groupTitle": "Web & Tools",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Responsive Web Design",
+          "Frontend Development"
+        ]
+      },
+      {
+        "groupTitle": "Communication & Design",
+        "skills": [
+          "Canva Presentations",
+          "Figma (learning)",
+          "Teamwork",
+          "Presentations",
+          "Adaptability"
+        ]
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/projects/baby-monitor-preview.jpg",
+        "title": "Baby Monitor System",
+        "subTitle": "Python \u00b7 Raspberry Pi \u00b7 System Design",
+        "description": "A monitoring system built with a Raspberry Pi and Python as part of operating systems coursework. Demonstrates practical problem solving with hardware and software integration.",
+        "tags": [
+          "Python",
+          "Raspberry Pi",
+          "System Design"
+        ],
+        "liveUrl": null,
+        "repoUrl": null,
+        "role": "Individual coursework project",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/projects/zeroday-preview.jpg",
+        "title": "ZeroDay Linktree Collaboration",
+        "subTitle": "Web Development \u00b7 Usability \u00b7 Accessibility",
+        "description": "Contributed to a website for LSBU ZeroDay, the university's cybersecurity society. Focused on clear information structure, usability, accessibility and professional presentation.",
+        "tags": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Accessibility"
+        ],
+        "liveUrl": "https://lsbu-zeroday.netlify.app/",
+        "repoUrl": null,
+        "role": "Contributor",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/projects/portfolio-preview.jpg",
+        "title": "Portfolio Website",
+        "subTitle": "HTML \u00b7 CSS \u00b7 JavaScript \u00b7 Figma",
+        "description": "My earlier one-page portfolio, built using HTML, CSS, JavaScript and Figma planning. Focused on layout, readability and clear presentation of my work and capabilities.",
+        "tags": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Figma"
+        ],
+        "liveUrl": "https://md-riad-portfolio.vercel.app/",
+        "repoUrl": null,
+        "role": "Personal project",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/projects/presentation-preview.jpg",
+        "title": "Presentation Design Samples",
+        "subTitle": "Canva \u00b7 Visual Communication \u00b7 Layout",
+        "description": "Canva slides created for academic and society-related work. Demonstrates layout, visual hierarchy and structured communication skills in professional presentations.",
+        "tags": [
+          "Canva",
+          "Presentations",
+          "Visual Design"
+        ],
+        "liveUrl": "/files/presentation.pdf",
+        "repoUrl": null,
+        "role": "Academic and society work",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Relevant Experience & Leadership",
+    "experience": [
+      {
+        "title": "Incoming Data Analyst \u2014 Industrial Placement",
+        "duration": "Starting October 2026",
+        "subTitle": "MEAMO",
+        "text": "Joining MEAMO for a Data Analyst industrial placement on 1 October 2026."
+      },
+      {
+        "title": "Founding Member & Event Coordinator",
+        "duration": "2025 \u2013 Present",
+        "subTitle": "LSBU ZeroDay",
+        "text": "Helped establish the cybersecurity society as part of a six-member team. Supported event planning, coordination and delivery for students."
+      },
+      {
+        "title": "CSI Student Ambassador",
+        "duration": "2025 \u2013 Present",
+        "subTitle": "London South Bank University",
+        "text": "Represented the School of Computer Science and Informatics at university open days and participated in team and independent projects."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "BSc (Hons) Computer Science",
+        "duration": "Current",
+        "subTitle": "London South Bank University",
+        "text": "Studying computer science with coursework spanning programming, operating systems, web development and system design."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Get in Touch",
+    "title": "Contact Info",
+    "subTitle": "Connect with me on social media",
+    "text": "I'm always open to discussing projects, opportunities and collaborations. Feel free to reach out via email or connect on LinkedIn."
+  },
+  "socialData": [
+    {
+      "icon": "linkedin-in",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/enthusiastsrd/"
+    },
+    {
+      "icon": "github",
+      "title": "GitHub",
+      "link": "https://github.com/CopyProgrammer"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "linkedin-in",
+      "link": "https://www.linkedin.com/in/enthusiastsrd/"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/CopyProgrammer"
+    }
+  ]
+}
